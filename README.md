@@ -19,6 +19,15 @@ A **real-time, end-to-end encrypted peer-to-peer chat application** built with *
 
 ## Screenshots
 
+### 1 Host
+![image](https://github.com/anujkaran027/P2P-Encrypted-Chat/blob/12814e88958b6a79ddb47325476b64cf6d6130b6/screenshots/host.png)
+
+### 2 Client
+![image](https://github.com/anujkaran027/P2P-Encrypted-Chat/blob/12814e88958b6a79ddb47325476b64cf6d6130b6/screenshots/client.png)
+
+### 3 Termination
+![image](https://github.com/anujkaran027/P2P-Encrypted-Chat/blob/12814e88958b6a79ddb47325476b64cf6d6130b6/screenshots/terminated.png)
+
 ---
 
 ## How to Run
